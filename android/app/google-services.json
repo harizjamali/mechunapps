@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929382001214",
+    "firebase_url": "https://store-app-f241f.firebaseio.com",
+    "project_id": "store-app-f241f",
+    "storage_bucket": "store-app-f241f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929382001214:android:7233889371c6144acb7f6f",
+        "android_client_info": {
+          "package_name": "com.example.mechunapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929382001214-qjj6pvld9lslj7o0rftflr31b7mq25sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLB--sxEHIUfYVWXhL2Ov1ZDEluG33P7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929382001214-qjj6pvld9lslj7o0rftflr31b7mq25sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
